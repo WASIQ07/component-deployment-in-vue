@@ -29,7 +29,14 @@
             "styles": [
               "src/styles.css"
             ],
-            "scripts": [],
+            "scripts": [
+              "src/assets/static/js/runtime~main.a8a9905a.js",
+              
+              "src/assets/static/js/2.fef2c802.chunk.js",
+              
+              "src/assets/static/js/main.98c2a894.chunk.js"
+              
+            ],
             "server": "src/main.server.ts",
             "prerender": true,
             "ssr": {
@@ -97,5 +104,8 @@
         }
       }
     }
+  },
+  "cli": {
+    "analytics": "e273712d-e985-4174-a0bc-6869c1f4bc5f"
   }
 }

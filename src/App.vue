@@ -1,6 +1,10 @@
 <template>
-  <img alt="Vue logo" src="./assets/logo.png">
-  <HelloWorld msg="Welcome to Your Vue.js App"/>
+  
+  <HelloWorld msg="Deploying react component in vue.js app "/>
+  <div id="app">
+    <h1>below element is from react</h1>
+    <my-react-component></my-react-component>
+  </div>
 </template>
 
 <script>

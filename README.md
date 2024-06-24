@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # my-vue-app
 
 ## Project setup
@@ -55,4 +56,7 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 =======
 # component-deployment-in-angular
 >>>>>>> origin/main
+>>>>>>> origin/main
+=======
+# component-deployment-in-vue
 >>>>>>> origin/main
